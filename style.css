@@ -1,0 +1,74 @@
+body, button {
+    font-family: Copperplate, Fantasy;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #236aa8;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    text-align: center;
+    background-color: #bcc9d4;
+    padding: 10px;
+}
+
+table.layout {
+    width: 100%;
+    border-spacing: 10px;
+    background-color: #faf3e1;
+}
+
+td {
+    vertical-align: top;
+}
+
+.left-sidebar, .right-sidebar, .content {
+    background-color: #f0daa3;
+    padding: 10px;
+}
+
+.left-sidebar, .right-sidebar {
+    width: 20%;
+}
+
+.content {
+    width: 55%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form input, form textarea {
+    margin-bottom: 10px;
+}
+
+form button {
+    width: 60px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+.button.block {
+    display: block;
+    width: 200px;    
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+img {
+  border-radius: 20px;
+  border: 3px solid #ddd;
+}
