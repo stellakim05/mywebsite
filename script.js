@@ -1,6 +1,6 @@
-document.getElementById('contactForm').addEventListener('submit', function(event) {
-    event.preventDefault();
-    console.log('Form is attempting to submit.');
-    alert('Form submitted!');
-});
-
+<p class="codepen" data-height="300" data-default-tab="js" data-slug-hash="GRbZXVO" data-pen-title="Untitled" data-user="stella-kim-the-builder" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/stella-kim-the-builder/pen/GRbZXVO">
+  Untitled</a> by stella kim (<a href="https://codepen.io/stella-kim-the-builder">@stella-kim-the-builder</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
